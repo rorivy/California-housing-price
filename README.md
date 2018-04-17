@@ -1,2 +1,2 @@
 # California-housing-price
-A predictive analysis on california housing prices with machine learning
+A predictive analysis on california housing prices with machine learning.(unfinished)
